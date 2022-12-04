@@ -50,7 +50,7 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math05
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\frac{99}{10}+\frac{55}{10}+\frac{33}{10}">.
+Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\frac{99}{10}+\frac{55}{10}+\frac{33}{10}">
 
 
 **Input**:*expression*.\
@@ -62,7 +62,7 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math06
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\(2+3-1)*\frac{5}{10}">.
+Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\(2+3-1)*\frac{5}{10}">
 
 
 **Input**:*expression*.\
@@ -86,7 +86,7 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math08
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\(\frac{12+3}{5}+3)/2">.
+Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\(\frac{12+3}{5}+3)/2">
 
 
 **Input**:*expression*.\
@@ -98,7 +98,7 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math09
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\frac{(25-14)*2-2}{10}">.
+Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\frac{(25-14)*2-2}{10}">
 
 
 **Input**:*expression*.\
@@ -110,7 +110,7 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math10
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\frac{(13-7)*5}{25}+1">.
+Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\frac{(13-7)*5}{25}+1">
 
 
 **Input**:*expression*.\
@@ -119,3 +119,15 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
 |               |2.2              |
+
+# basic_math11
+
+Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\frac{(18*331-(46348+67892))/21}{14}+143*46">
+
+
+**Input**:*expression*.\
+**Output**: *answer*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|               |6209.693877551021|
