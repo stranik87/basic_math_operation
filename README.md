@@ -24,7 +24,7 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 |---------------|-----------------|
 |               |3.875            |
 
-# basic_math04
+# basic_math03
 
 Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\2+\frac{4}{3}">.
 
@@ -34,11 +34,11 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|               |3.3333           |
+|               |3.333333333333333|
 
-# basic_math03
+# basic_math04
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\8\frac{3}{4} + 6">.
+Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\8\frac{3}{4}+6">.
 
 
 **Input**:*expression*.\
@@ -50,7 +50,7 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math05
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\\frac{99}{10}+\frac{55}{10}+\frac{33}{10}">.
+Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\frac{99}{10}+\frac{55}{10}+\frac{33}{10}">.
 
 
 **Input**:*expression*.\
