@@ -123,7 +123,8 @@ Assign the value of this expression to "a" variable and print: <img src="https:/
 
 # basic_math11
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\frac{(18*331-(46348+67892))/21}{14}+143*46">
+Assign the value of this expression to "a" variable and print:
+<img src="https://latex.codecogs.com/gif.latex?\frac{(18*331-(46348+67892))/21}{14}+143*46">
 
 
 **Input**:*expression*.\
@@ -135,7 +136,8 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math12
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\frac{100}{101}+\frac{1}{101}-\frac{99}{101}">.
+Assign the value of this expression to "a" variable and print:
+<img src="https://latex.codecogs.com/gif.latex?\frac{100}{101}+\frac{1}{101}-\frac{99}{101}">.
 
 
 **Input**:*expression*.\
@@ -147,7 +149,8 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math13
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\5\frac{3}{5}+3\frac{4}{5}">.
+Assign the value of this expression to "a" variable and print:
+<img src="https://latex.codecogs.com/gif.latex?\5\frac{3}{5}+3\frac{4}{5}">.
 
 
 **Input**:*expression*.\
@@ -159,7 +162,8 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math14
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\6\frac{1}{7}-1">.
+Assign the value of this expression to "a" variable and print:
+<img src="https://latex.codecogs.com/gif.latex?\6\frac{1}{7}-1">.
 
 
 **Input**:*expression*.\
@@ -171,7 +175,8 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math15
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\201-(\frac{176.4}{16.8}+9.68)*2.5">
+Assign the value of this expression to "a" variable and print:
+<img src="https://latex.codecogs.com/gif.latex?\201-(\frac{176.4}{16.8}+9.68)*2.5">
 
 
 **Input**:*expression*.\
@@ -183,7 +188,8 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math16
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\1.7*2.3-1.7*1.5+0.8*2.2-0.8*0.5">
+Assign the value of this expression to "a" variable and print:
+<img src="https://latex.codecogs.com/gif.latex?\1.7*2.3-1.7*1.5+0.8*2.2-0.8*0.5">
 
 
 **Input**:*expression*.\
@@ -195,7 +201,8 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math17
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\7\frac{3}{11}*4\frac{3}{5}+2\frac{8}{11}*4\frac{3}{5}">.
+Assign the value of this expression to "a" variable and print:
+<img src="https://latex.codecogs.com/gif.latex?\7\frac{3}{11}*4\frac{3}{5}+2\frac{8}{11}*4\frac{3}{5}">.
 
 
 **Input**:*expression*.\
@@ -207,7 +214,8 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math18
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\2\frac{5}{13}*14\frac{61}{72}-1\frac{61}{72}*2\frac{5}{13}">
+Assign the value of this expression to "a" variable and print:
+<img src="https://latex.codecogs.com/gif.latex?\2\frac{5}{13}*14\frac{61}{72}-1\frac{61}{72}*2\frac{5}{13}">
 
 
 **Input**:*expression*.\
@@ -219,7 +227,8 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math19
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\frac{2}{9}*\frac{3}{7}*\frac{21}{5}">
+Assign the value of this expression to "a" variable and print:
+<img src="https://latex.codecogs.com/gif.latex?\frac{2}{9}*\frac{3}{7}*\frac{21}{5}">
 
 
 **Input**:*expression*.\
@@ -231,7 +240,8 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math20
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\frac{7}{25}:\frac{3}{10}*\frac{5}{6}">
+Assign the value of this expression to "a" variable and print:
+<img src="https://latex.codecogs.com/gif.latex?\frac{7}{25}:\frac{3}{10}*\frac{5}{6}">
 
 
 **Input**:*expression*.\
