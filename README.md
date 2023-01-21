@@ -2,7 +2,7 @@
 
 # basic_math01
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\4+6\frac{2}{5}">.
+Assign the value of this expression to "a" variable and print:  <img src="https://latex.codecogs.com/gif.latex?\4+6\frac{2}{5}">
 
 
 **Input**:*expression*.\
@@ -14,7 +14,8 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math02
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\2\frac{5}{8}+1\frac{2}{8}">.
+Assign the value of this expression to "a" variable and print:
+<img src="https://latex.codecogs.com/gif.latex?\2\frac{5}{8}+1\frac{2}{8}">.
 
 
 **Input**:*expression*.\
@@ -26,7 +27,7 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math03
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\2+\frac{4}{3}">.
+Assign the value of this expression to "a" variable and print: <img src="https://latex.codecogs.com/gif.latex?\2+\frac{4}{3}">.
 
 
 **Input**:*expression*.\
@@ -38,7 +39,7 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math04
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\8\frac{3}{4}+6">.
+Assign the value of this expression to "a" variable and print: <img src="https://latex.codecogs.com/gif.latex?\8\frac{3}{4}+6">.
 
 
 **Input**:*expression*.\
@@ -62,7 +63,7 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math06
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\(2+3-1)*\frac{5}{10}">
+Assign the value of this expression to "a" variable and print: <img src="https://latex.codecogs.com/gif.latex?\(2+3-1)*\frac{5}{10}">
 
 
 **Input**:*expression*.\
@@ -74,7 +75,7 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math07
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\(7-9+11)*\frac{11}{121}">.
+Assign the value of this expression to "a" variable and print: <img src="https://latex.codecogs.com/gif.latex?\(7-9+11)*\frac{11}{121}">.
 
 
 **Input**:*expression*.\
@@ -86,7 +87,7 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math08
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\(\frac{12+3}{5}+3)/2">
+Assign the value of this expression to "a" variable and print: <img src="https://latex.codecogs.com/gif.latex?\(\frac{12+3}{5}+3)/2">
 
 
 **Input**:*expression*.\
@@ -98,7 +99,7 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math09
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\frac{(25-14)*2-2}{10}">
+Assign the value of this expression to "a" variable and print: <img src="https://latex.codecogs.com/gif.latex?\frac{(25-14)*2-2}{10}">
 
 
 **Input**:*expression*.\
@@ -110,7 +111,7 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 # basic_math10
 
-Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\frac{(13-7)*5}{25}+1">
+Assign the value of this expression to "a" variable and print: <img src="https://latex.codecogs.com/gif.latex?\frac{(13-7)*5}{25}+1">
 
 
 **Input**:*expression*.\
