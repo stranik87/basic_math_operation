@@ -214,7 +214,7 @@ Print the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|               |33.02029914529915|
+|               |31.0             |
 
 # basic_math19
 
